@@ -1,0 +1,24 @@
+{
+  "name": "discord-music-bot-tutorial-master",
+  "version": "1.0.0",
+  "description": "A server that serves a webpage, its resources, and some data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "genius-lyrics": "^4.0.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "path": "^0.12.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.3.0",
+    "ytdl-core-discord": "^1.2.3"
+  }
+}
