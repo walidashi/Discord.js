@@ -2,6 +2,6 @@
   "name": "Test",
   "language": "javascript",
   "manager": "npm",
-  "token": "",
+  "token": "your token",
   "prefix": "$"
 }
